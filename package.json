@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jrowbotham93/os-api-gateway#readme",
   "dependencies": {
     "apollo-datasource-rest": "^0.9.3",
-    "apollo-server": "^2.16.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.3.0",
     "graphql-yoga": "^1.18.3"
   }
